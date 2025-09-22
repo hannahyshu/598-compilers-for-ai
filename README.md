@@ -7,3 +7,5 @@
 | [Relay](https://arxiv.org/pdf/1904.08368) | [Relay paper summary](https://chatgpt.com/share/68ca129a-ce1c-800b-99f3-05b3a31f3840) |
 | [GEPA](https://arxiv.org/pdf/2507.19457) | [GEPA paper summary](https://chatgpt.com/share/68cae042-bdb8-800b-9a03-0b8767c52b6f) |
 | [Ansor](https://arxiv.org/pdf/2006.06762) | [Ansor paper summary](https://chatgpt.com/share/68cae32a-742c-800b-995e-dce3526e7ac3) |
+|[Pytorch](https://dl.acm.org/doi/10.1145/3620665.3640366) | [Pytorch paper summary](https://chatgpt.com/share/68d0e138-f654-800b-9c92-9372e3f65c53) |
+| [TorchBench](https://arxiv.org/abs/2304.14226) | [TorchBench paper summary] (https://chatgpt.com/share/68d1c090-2f2c-800b-b1c0-b207cf7d7a3e) |

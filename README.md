@@ -9,3 +9,5 @@
 | [Ansor](https://arxiv.org/pdf/2006.06762) | [Ansor paper summary](https://chatgpt.com/share/68cae32a-742c-800b-995e-dce3526e7ac3) |
 |[Pytorch](https://dl.acm.org/doi/10.1145/3620665.3640366) | [Pytorch paper summary](https://chatgpt.com/share/68d0e138-f654-800b-9c92-9372e3f65c53) |
 | [TorchBench](https://arxiv.org/abs/2304.14226) | [TorchBench paper summary] (https://chatgpt.com/share/68d1c090-2f2c-800b-b1c0-b207cf7d7a3e) |
+| [TorchTitan](https://arxiv.org/pdf/2410.06511) | [TorchTitan paper summary] (https://chatgpt.com/share/68d362ec-4e54-800b-88c3-a9ce305ac2da) |
+| [ECLIP] (https://arxiv.org/abs/2506.12598) | [ECLIP paper summary] (https://chatgpt.com/share/68d42104-3cd8-800b-b0fe-30b7c9892868) |

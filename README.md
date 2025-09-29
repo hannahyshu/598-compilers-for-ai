@@ -11,3 +11,5 @@
 | [TorchBench](https://arxiv.org/abs/2304.14226) | [TorchBench paper summary](https://chatgpt.com/share/68d1c090-2f2c-800b-b1c0-b207cf7d7a3e) |
 | [TorchTitan](https://arxiv.org/pdf/2410.06511) | [TorchTitan paper summary](https://chatgpt.com/share/68d362ec-4e54-800b-88c3-a9ce305ac2da) |
 | [ECLIP](https://arxiv.org/abs/2506.12598) | [ECLIP paper summary](https://chatgpt.com/share/68d42104-3cd8-800b-b0fe-30b7c9892868) |
+| [Triton](https://www.eecs.harvard.edu/~htk/publication/2019-mapl-tillet-kung-cox.pdf) | [Triton paper summary](https://chatgpt.com/share/68da098d-0e3c-800b-b46d-b00ef5bc5d97) |
+| [Geak](https://arxiv.org/abs/2507.23194) | [Geak paper summary](https://chatgpt.com/share/68dadae2-824c-800b-a32e-d88f5f9e9ea7) |

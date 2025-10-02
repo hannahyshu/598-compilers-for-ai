@@ -13,3 +13,5 @@
 | [ECLIP](https://arxiv.org/abs/2506.12598) | [ECLIP paper summary](https://chatgpt.com/share/68d42104-3cd8-800b-b0fe-30b7c9892868) |
 | [Triton](https://www.eecs.harvard.edu/~htk/publication/2019-mapl-tillet-kung-cox.pdf) | [Triton paper summary](https://chatgpt.com/share/68da098d-0e3c-800b-b46d-b00ef5bc5d97) |
 | [Geak](https://arxiv.org/abs/2507.23194) | [Geak paper summary](https://chatgpt.com/share/68dadae2-824c-800b-a32e-d88f5f9e9ea7) |
+| [OpFusion](https://arxiv.org/pdf/2301.13062) | [OpFusion paper summary](https://chatgpt.com/share/68dc9420-d574-800b-950d-bbd4900d86e1) |
+| [MemSafeXLA](https://arxiv.org/abs/2206.14148) | [MemSafeXLA paper summary](https://chatgpt.com/share/68ddc926-3c48-800b-8c12-7921752620d8) |

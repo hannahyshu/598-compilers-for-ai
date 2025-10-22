@@ -15,3 +15,5 @@
 | [Geak](https://arxiv.org/abs/2507.23194) | [Geak paper summary](https://chatgpt.com/share/68dadae2-824c-800b-a32e-d88f5f9e9ea7) |
 | [OpFusion](https://arxiv.org/pdf/2301.13062) | [OpFusion paper summary](https://chatgpt.com/share/68dc9420-d574-800b-950d-bbd4900d86e1) |
 | [MemSafeXLA](https://arxiv.org/abs/2206.14148) | [MemSafeXLA paper summary](https://chatgpt.com/share/68ddc926-3c48-800b-8c12-7921752620d8) |
+| [MLIR](https://arxiv.org/abs/2002.11054) | [MLIR paper summary](https://chatgpt.com/share/68f6f54f-74a0-800b-a75a-40cdbd541e71) |
+| [Glow](https://arxiv.org/abs/1805.00907) | [Glow paper summary](https://chatgpt.com/share/68f9496b-dcd8-800b-99bf-c3af76e7f5b5) |

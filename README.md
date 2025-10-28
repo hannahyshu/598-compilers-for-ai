@@ -17,3 +17,5 @@
 | [MemSafeXLA](https://arxiv.org/abs/2206.14148) | [MemSafeXLA paper summary](https://chatgpt.com/share/68ddc926-3c48-800b-8c12-7921752620d8) |
 | [MLIR](https://arxiv.org/abs/2002.11054) | [MLIR paper summary](https://chatgpt.com/share/68f6f54f-74a0-800b-a75a-40cdbd541e71) |
 | [Glow](https://arxiv.org/abs/1805.00907) | [Glow paper summary](https://chatgpt.com/share/68f9496b-dcd8-800b-99bf-c3af76e7f5b5) |
+| [EffPagedAttn](https://arxiv.org/abs/2309.06180) | [EffPagedAttn paper summary](https://chatgpt.com/share/68ffba5e-84c8-800b-ad4f-4a24d74d9513) |
+| [EffLLMServ](https://arxiv.org/abs/2503.18292) | [EffLLMServ paper summary](https://chatgpt.com/share/68ffba53-8dc4-800b-a406-6614110d2707) |
